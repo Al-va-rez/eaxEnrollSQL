@@ -8,7 +8,7 @@ SELECT
     day,
     time_start,
     time_end,
-    -- from rooms
+    -- from ROOMS
     room_number,
     -- from FACULTY
     f1.faculty_id,
