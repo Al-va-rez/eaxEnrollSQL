@@ -1,3 +1,4 @@
+-- 4
 SELECT
     c1.room_id,
     room_number,
